@@ -1,4 +1,4 @@
-# Impact of Autumn North Atlantic SST on European winter Temperature 
+# Impact of Autumn North Atlantic SST on European Winter Temperature 
 This repository contains the code and experiments conducted for my thesis work.
 
 ### Abstract
