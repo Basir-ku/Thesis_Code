@@ -14,5 +14,5 @@ Autumn North Atlantic sea surface temperature (SST) have been identified as sign
 3. DeepModel_2 notebook focuses on predicting warm and cold winter 2mT temperature from autumn North Atlantic sea surface temperatures (SST).
 
 
-### `Note Please note that this repository does not contain the core analysis of my thesis for privacy reason.`
+### `Note that this repository does not contain the core analysis of my thesis for privacy reason.`
 
